@@ -2,7 +2,7 @@
   "name": "tomvisions-ngx-gallery",
   "version": "2.0.1",
   "description": "A simple responsive native gallery component for Angular 8+ and 13+.",
-  "author": "Andrey Kolkov <a.kolkov@gmail.com>",
+  "author": "Tom Cruickshank <tcruicksh@gmail.com>",
   "repository": "https://github.com/tomvisions-ngx-gallery",
   "license": "MIT",
   "private": false,
